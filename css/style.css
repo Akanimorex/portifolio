@@ -1,13 +1,4 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
-/*======================================
-//--//-->   STYLES GENERALES
-======================================*/
 
 body {
   background-color: #f5f5f5;
@@ -1087,9 +1078,7 @@ a:hover {
   color: #fff;
 }
 
-/*======================================
-//--//-->   CONTACT
-======================================*/
+
 
 .footer-paralax {
   padding: 4rem 0 0 0;
@@ -1099,9 +1088,7 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*======================================
-//--//-->   FOOTER
-======================================*/
+
 
 footer {
   text-align: center;
@@ -1121,9 +1108,7 @@ footer .credits a {
   color: #fff;
 }
 
-/*======================================
-//--//-->   CONtaCT FORM
-======================================*/
+
 
 #sendmessage {
   color: #0078ff;
@@ -1159,9 +1144,7 @@ footer .credits a {
   font-size: 13px;
 }
 
-/*======================================
-//--//-->   BUTTON
-======================================*/
+
 
 .button {
   display: inline-block;
